@@ -105,8 +105,8 @@
             MadCap:matchPercent="0" /><mrk
             mtype="seg"
             mid="3"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">a</mrk><mrk
             mtype="protected"
             mid="4"
             MadCap:segmentStatus="Untranslated"
